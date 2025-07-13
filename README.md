@@ -2,7 +2,7 @@
 "Dashboard d'analyse des espaces verts urbains d'Abidjan avec Google Earth Engine"
 # 🌿 Dashboard d'Analyse des Espaces Verts - Abidjan
 
-[![Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-%230078D4?logo=google-earth&logoColor=white)]()
+[![Earth Engine](https://code.earthengine.google.com/?scriptPath=users%2Ffrancktanoh17%2FCURAT%3AAnalyse%20multicrit%C3%A8re%20et%20quantification%20des%20espaces%20verts)]()
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 Solution complète pour le suivi des espaces verts urbains à Abidjan utilisant la télédétection.
@@ -15,4 +15,4 @@ Solution complète pour le suivi des espaces verts urbains à Abidjan utilisant 
 - 💡 Système de recommandations automatisées
 
 ## Démo
-[![Open in Earth Engine](https://img.shields.io/badge/Open%20in-Earth%20Engine-yellow)](https://code.earthengine.google.com/?scriptPath=users%2FUSERNAME%2Frepo%3Amain_dashboard)
+[![Open in Earth Engine](https://code.earthengine.google.com/?scriptPath=users%2Ffrancktanoh17%2FCURAT%3AAnalyse%20multicrit%C3%A8re%20et%20quantification%20des%20espaces%20verts)
